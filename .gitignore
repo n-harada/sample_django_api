@@ -1,0 +1,9 @@
+*.pyc
+django_api/bin/*
+django_api/lib/*
+django_api/pyvenv.cfg
+media/*
+*/migrations/*
+*/__pycathe
+logs/*
+db.sqlite3
